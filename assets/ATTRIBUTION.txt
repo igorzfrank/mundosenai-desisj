@@ -1,0 +1,25 @@
+Christ the Redeemer Over Rio (previous model)
+Creator: igor.moreno
+Source: https://www.meshy.ai/s/wcohJ3
+License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Changes: integrated into the Mundo SENAI globe and scaled for display.
+
+Christ the Redeemer (replacement model)
+Source: file supplied by the user (cristo-final.glb).
+Changes: integrated into the Mundo SENAI globe and scaled for display.
+
+Tesla reference model (previous)
+Source: file supplied by the user (white_mesh (1).glb).
+Changes: integrated as the animated car model and scaled for display.
+
+Tesla painted model
+Source: file supplied by the user (tesla-pintado.glb).
+Changes: integrated as the animated car model while preserving its original materials.
+
+Chinese dragon model
+Source: file supplied by the user (dragaochines.glb).
+Changes: integrated as the green animated dragon model.
+
+Elephant model
+Source: file supplied by the user (elefante.glb).
+Changes: integrated with a gray material, scaled to the base, and connected to the landing deformation animation.
